@@ -1,0 +1,13 @@
+L'objectif est de coder le script permettant la connectiobn au walletsur tezos. Pour ce faire le script à modifier est celui du fichier Header.js 
+
+Lancez npm start en ayant \Documents\GitHub\KSpoleprog\tp1  comme repertoire de travail (pwd )  apres avoir fait les installations . Le site se mettra a jour à chaque fois qu'on sauvegarde les modifications
+
+PRerequis :
+Installez Taquito, une bibliothèque JavaScript pour interagir avec Tezos, en utilisant la commande suivante :
+npm install @taquito/taquito
+
+importez taquito dans le header.js
+regarder la documentation des wallet api:https://tezostaquito.io/docs/wallet_api/#connecting-the-wallet
+:https://www.youtube.com/watch?v=PZgNT0INxxc&ab_channel=0xVivek
+
+Bon code à tous!!
